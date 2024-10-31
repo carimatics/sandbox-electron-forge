@@ -11,7 +11,6 @@ const config: ForgeConfig = {
   packagerConfig: {
     name: 'Sandbox Electron Forge',
     asar: true,
-    osxSign: {},
   },
   rebuildConfig: {},
   makers: [new MakerSquirrel({}), new MakerZIP({}, ['darwin']), new MakerRpm({}), new MakerDeb({})],

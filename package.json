@@ -1,6 +1,6 @@
 {
   "name": "sandbox-electron-forge",
-  "productName": "sandbox-electron-forge",
+  "productName": "Sandbox Electron Forge",
   "version": "1.0.0",
   "description": "My Electron application description",
   "main": ".vite/build/main.js",
